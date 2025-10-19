@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948260336675",
+    "project_id": "conversordivisas-761b3",
+    "storage_bucket": "conversordivisas-761b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948260336675:android:c66e0c7fcb5d06d6ee6d96",
+        "android_client_info": {
+          "package_name": "dev.miguelehr.conversordedivisas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD95VtEoy6FFEAfU-tb860MJFT2DTrmVUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
