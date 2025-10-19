@@ -1,3 +1,4 @@
+
 package dev.miguelehr.conversordedivisas.data.model
 
 data class ConversionRecord(
